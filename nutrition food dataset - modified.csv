@@ -1,0 +1,909 @@
+category,name,glycemic_index,glycemic_load,calories,proteins (g),carbohydrates (g),fats (g)
+Lainnya,Ragi,35.0,6.3,105.0,8.0,18.0,1.9
+Lainnya,Ragi bir,35.0,0.0,75.0,12.7,0.0,2.7
+Lainnya,Maltodekstrin,95.0,94.0,380.0,0.0,99.0,0.0
+Lainnya,Palm pulp,20.0,1.2,354.0,3.4,6.2,33.5
+Lainnya,Telur dadar,49.0,7.3,210.0,14.0,15.0,2.1
+Lainnya,Pangsit,86.0,24.9,275.0,11.9,29.0,12.4
+Lainnya,Ravioli (dari gandum lunak),70.0,20.8,245.0,15.5,29.7,8.0
+Lainnya,Ravioli (dari gandum keras),40.0,11.6,225.0,15.0,29.0,8.0
+Lainnya,Sushi,55.0,11.6,158.0,4.3,21.1,4.9
+Lainnya,"Sushi, salmon",48.0,7.3,129.0,9.2,15.2,3.6
+Lainnya,Taco,70.0,14.0,226.0,9.0,20.0,13.0
+Lainnya,Tapioka (kering),85.0,74.6,350.0,0.2,87.0,0.0
+Lainnya,Talas,48.0,12.7,112.0,1.5,26.5,0.2
+Lainnya,Tahini,40.0,8.4,595.0,17.0,21.0,54.0
+Lainnya,Bubuk telur,60.0,2.7,542.0,46.0,4.5,37.3
+Lainnya,Telur,0.0,0.0,115.0,13.0,1.1,11.0
+Sayuran,Alpukat,10.0,0.9,160.0,2.0,9.0,15.0
+Sayuran,Artichoke,20.0,1.2,28.0,1.2,6.0,0.1
+Sayuran,Terong,20.0,1.7,35.0,0.8,8.7,0.2
+Sayuran,Eggplant Caviar,40.0,5.3,146.0,1.7,13.3,5.1
+Sayuran,Ubi jalar ,70.0,11.1,77.0,1.4,15.8,0.4
+Sayuran,Brokoli,15.0,0.5,35.0,3.5,3.1,0.4
+Sayuran,Brokoli (dimasak),45.0,3.1,45.0,3.0,7.0,1.0
+Sayuran,Rutabaga,70.0,6.1,39.0,1.3,8.7,0.2
+Sayuran,Kubis Brussels (segar),15.0,1.1,36.0,2.5,7.1,0.5
+Sayuran,Kentang rebus,70.0,12.3,80.0,1.8,17.5,0.1
+Sayuran,Kentang panggang,95.0,20.0,93.0,2.5,21.1,0.1
+Sayuran,Labu kaviar,75.0,3.6,83.0,1.3,4.8,8.1
+Sayuran,Labu siam,15.0,0.7,24.0,0.6,4.6,0.3
+Sayuran,Kapulaga,20.0,0.8,30.0,2.1,4.2,0.5
+Sayuran,Kubis putih,15.0,0.9,24.0,1.2,5.8,0.1
+Sayuran,Kubis Brussels,15.0,0.3,46.0,3.6,2.3,2.4
+Sayuran,Sauerkraut,15.0,0.8,29.0,1.7,5.0,0.1
+Sayuran,Kembang kol,15.0,0.8,25.0,2.0,5.3,0.1
+Sayuran,Kentang goreng,95.0,19.1,149.0,2.8,20.1,7.0
+Sayuran,Kentang tumbuk,83.0,11.4,72.0,1.7,13.7,1.2
+Sayuran,Kol rabi,20.0,2.1,42.0,2.8,10.6,0.0
+Sayuran,Timun asin,15.0,0.7,18.0,0.0,4.6,0.0
+Sayuran,Zaitun hitam,15.0,4.8,361.0,2.2,32.0,8.7
+Sayuran,Wortel (dimasak),85.0,4.3,25.0,0.8,5.0,0.3
+Sayuran,Wortel (segar),30.0,2.0,31.0,0.9,6.8,0.2
+Sayuran,Sayuran kaleng (pabrik),65.0,3.4,77.0,3.2,5.2,2.8
+Sayuran,Mentimun,15.0,0.4,15.0,0.8,2.8,0.1
+Sayuran,Acar dill,15.0,0.2,16.0,2.8,1.3,0.0
+Sayuran,Zaitun,15.0,0.9,115.0,0.8,6.3,10.7
+Sayuran,Parsnip,85.0,15.3,75.0,1.2,18.0,0.3
+Sayuran,Kubis Cina,20.0,0.4,12.0,1.1,2.2,0.2
+Sayuran,Paprika manis,15.0,0.8,27.0,1.3,5.3,0.0
+Sayuran,Cabai,15.0,1.4,40.0,2.0,9.5,0.2
+Sayuran,Cabai hijau (Segar),15.0,1.2,40.0,2.0,8.0,0.2
+Sayuran,Tomat (segar),30.0,1.1,24.0,1.1,3.8,0.2
+Sayuran,Ratatouille,20.0,1.0,38.0,0.9,5.0,1.6
+Sayuran,Rhabarber,15.0,0.4,13.0,0.7,2.5,0.1
+Sayuran,Lobak,15.0,0.5,20.0,1.2,3.4,0.1
+Sayuran,"Lobak (dimasak, direbus)",85.0,3.9,26.0,1.7,4.6,0.2
+Sayuran,Lobak (mentah),30.0,1.9,30.0,1.5,6.2,0.1
+Sayuran,Bit (Dimasak),65.0,7.0,49.0,1.8,10.8,0.0
+Sayuran,Beetroot (segar),30.0,2.6,43.0,1.5,8.8,0.1
+Sayuran,Scorzonera (Kozelec),30.0,0.3,17.0,1.0,1.0,1.0
+Sayuran,"Paprika manis (merah, hijau), paprika",15.0,1.0,33.0,1.3,6.9,0.0
+Sayuran,Acar mentimun,15.0,0.3,11.0,0.3,2.3,0.2
+Sayuran,Tomat,30.0,1.1,24.0,1.1,3.8,0.2
+Sayuran,Tomat (kering),35.0,10.2,170.0,6.3,29.0,4.3
+Sayuran,Arta Jerusalema (segar),50.0,6.4,61.0,2.1,12.8,0.1
+Sayuran,"Lobak, lobak (segar)",30.0,1.8,28.0,1.0,6.0,0.0
+Sayuran,Labu,65.0,4.5,26.0,1.0,7.0,0.1
+Sayuran,Labu (rebus),75.0,5.3,26.0,1.0,7.0,0.1
+Sayuran,Kembang kol (segar),15.0,0.8,30.0,2.5,5.4,0.3
+Sayuran,Kembang kol tumis,15.0,0.0,29.0,1.8,0.3,4.0
+Sayuran,Zucchini,15.0,0.5,17.0,1.2,3.1,0.3
+Sayuran,"Chayote (mentimun Meksiko), diremas dari itu",50.0,2.3,19.0,0.8,4.5,0.1
+Makanan manis,Selai kacang (Tanpa Gula),25.0,7.0,567.0,26.0,28.0,49.0
+Makanan manis,"Bar muesli, Bebas Gluten",50.0,37.1,285.0,2.9,74.3,0.0
+Makanan manis,Cokelat putih,44.0,26.0,539.0,5.9,59.2,31.1
+Makanan manis,Glukosa,96.0,94.1,385.0,0.1,98.0,0.1
+Makanan manis,Glukosa (Dekstrosa),100.0,95.0,380.0,0.0,95.0,0.0
+Makanan manis,Selai,51.0,47.5,376.0,0.5,93.1,0.1
+Makanan manis,Sirup maple,55.0,36.9,261.0,0.0,67.1,0.2
+Makanan manis,Selai Strawberry (Tinggi Gula),65.0,45.5,280.0,0.0,70.0,0.0
+Makanan manis,Selai Strawberry (Rendah Gula),51.0,31.1,246.0,0.0,61.0,0.0
+Makanan manis,Gula kelapa,35.0,1.8,19.0,0.0,5.0,0.0
+Makanan manis,Permen cokelat dengan pemanis,23.0,8.2,547.0,6.9,35.7,52.4
+Makanan manis,Sirup Jagung (Gelap),115.0,89.2,286.0,0.0,77.6,0.0
+Makanan manis,Marmalade (tanpa gula),30.0,22.2,284.0,0.3,73.9,0.1
+Makanan manis,Marmalade dengan gula,65.0,49.8,293.0,0.4,76.6,0.0
+Makanan manis,Madu,60.0,45.8,309.0,1.4,76.4,0.2
+Makanan manis,Molase,70.0,52.5,290.0,0.0,75.0,0.1
+Makanan manis,Pasta almond (tanpa gula),35.0,15.1,458.0,9.0,43.0,27.7
+Makanan manis,Susu kental manis,80.0,6.8,329.0,7.2,8.5,56.0
+Makanan manis,Cokelat susu,49.0,28.9,553.0,8.0,59.0,30.0
+Makanan manis,Sirup,70.0,54.8,296.0,0.0,78.3,0.3
+Makanan manis,Coklat Batangan (dengan gula),70.0,38.1,550.0,6.9,54.4,35.7
+Makanan manis,Air rice,85.0,76.3,402.0,6.3,89.8,0.5
+Makanan manis,Gula,58.0,58.0,387.0,0.0,100.0,0.0
+Makanan manis,Gula aren,70.0,68.6,380.0,0.1,98.0,0.0
+Makanan manis,Susu kental,61.0,32.9,321.0,8.0,54.0,9.0
+Makanan manis,Sirup glukosa,100.0,70.5,285.0,0.2,70.5,0.0
+Makanan manis,Sirup tangkira,65.0,43.5,261.0,0.0,67.1,0.2
+Makanan manis,Sirup jagung,15.0,11.7,286.0,0.0,78.0,0.0
+Makanan manis,Sirup gandum,100.0,78.0,315.0,0.1,78.0,0.3
+Makanan manis,Sirup beras,100.0,77.0,311.0,0.5,77.0,0.2
+Makanan manis,Chicory Syrup,55.0,5.2,167.0,0.0,9.5,0.0
+Makanan manis,Sorbet (tanpa gula),40.0,4.8,50.0,0.0,12.0,0.0
+Makanan manis,Sorbet (dengan gula),65.0,17.9,158.0,1.0,27.6,4.8
+Makanan manis,Stevia,0.0,0.0,18.0,0.0,0.1,0.0
+Makanan manis,Fruit Bar (strawberry),90.0,60.8,418.0,4.0,67.5,14.5
+Makanan manis,Fruktosa,20.0,20.0,399.0,0.0,99.8,0.0
+Makanan manis,Cokelat Hitam (dengan Kandungan Kakao 85%),20.0,9.6,539.0,6.2,48.2,34.4
+Makanan manis,Sorbet,65.0,52.5,386.0,4.9,80.7,4.8
+Makanan manis,Cokelat,49.0,29.9,546.0,4.9,61.0,31.0
+Makanan manis,Cokelat (+ 70% kakao),25.0,9.0,549.0,9.1,36.0,39.0
+Makanan manis,Cokelat hitam,23.0,13.8,546.0,4.9,60.0,30.2
+Makanan manis,Bubuk cokelat dengan gula,60.0,19.1,374.0,24.2,31.9,17.5
+Rempah-rempah,Basil,5.0,0.1,22.0,3.2,2.7,0.6
+Rempah-rempah,Cuka balsamik,5.0,2.8,237.0,1.5,55.0,0.0
+Rempah-rempah,Vanilla,5.0,3.3,260.0,0.0,65.0,0.0
+Rempah-rempah,Mustard (dengan gula),55.0,5.9,90.0,7.4,10.8,2.0
+Rempah-rempah,Mustard Dijon,35.0,3.3,165.0,9.6,9.5,9.7
+Rempah-rempah,Jahe,15.0,0.6,17.0,0.0,3.7,0.0
+Rempah-rempah,Saus tomat,55.0,14.0,98.0,1.8,25.5,0.3
+Rempah-rempah,Biji rami (dikupas),4.0,0.3,553.0,31.5,8.7,48.7
+Rempah-rempah,Kayu manis,5.0,2.9,261.0,4.0,57.0,2.0
+Rempah-rempah,Wijen,35.0,8.1,573.0,18.0,23.0,5.0
+Rempah-rempah,"Tahini, pasta wijen",40.0,4.9,575.0,19.4,12.2,48.7
+Rempah-rempah,Biji wijen,35.0,4.3,565.0,19.4,12.2,48.7
+Rempah-rempah,Carob (bubuk carob),15.0,11.7,212.0,4.4,78.0,1.0
+Rempah-rempah,Bubuk Akar Teratai,33.0,4.1,74.0,2.6,12.3,0.1
+Rempah-rempah,Biji rami,35.0,0.6,543.0,18.3,1.6,42.2
+Rempah-rempah,Lupine,15.0,6.1,371.0,36.2,40.4,9.7
+Rempah-rempah,Biji poppy,35.0,9.8,525.0,18.0,28.0,42.0
+Rempah-rempah,"Singkong (pahit, manis)",55.0,20.9,159.0,1.4,38.0,0.3
+Rempah-rempah,Oregano,5.0,3.2,333.0,11.3,64.7,10.0
+Rempah-rempah,Jintan,5.0,0.6,333.0,19.8,11.9,14.6
+Rempah-rempah,Cuka,15.0,0.0,18.0,0.0,0.0,0.0
+Rempah-rempah,Bawang putih,30.0,9.0,143.0,6.5,29.9,0.5
+Sup,Sup sayuran,40.0,2.5,43.0,1.7,6.2,1.8
+Sup,Sup lentil ,44.0,6.6,108.0,7.6,15.0,2.0
+Sup,Sup dengan ayam dan jamur,46.0,0.7,27.0,3.7,1.5,0.7
+Sup,Sup tomat,38.0,2.7,30.0,0.8,7.0,0.3
+Sup,Lentil soup,30.0,2.4,56.0,3.7,8.0,1.1
+Seafood,Kaviar merah,0.0,0.0,263.0,32.0,0.0,15.0
+Seafood,"Makanan laut (tiram, udang, kerang, dll.)",0.0,0.0,204.0,29.0,1.9,8.0
+Seafood,"Krustasea (lobster, kepiting, udang karang)",5.0,0.1,97.0,20.3,1.0,1.3
+Seafood,"Ikan (salmon, tuna, dll.)",0.0,0.0,208.0,20.0,0.0,13.0
+Seafood,Surimi ,50.0,3.4,99.0,15.2,6.8,0.9
+Minyak dan saus,Minyak kacang tanah (Tanpa Gula),40.0,8.6,589.0,24.1,21.6,49.9
+Minyak dan saus,Lemak angsa,0.0,0.0,900.0,0.0,0.0,99.8
+Minyak dan saus,Lemak (hewan / nabati),0.0,0.0,884.0,0.0,0.0,100.0
+Minyak dan saus,Santan kelapa (mentah),40.0,1.1,197.0,2.0,2.8,21.3
+Minyak dan saus,Mayones (rumahan),0.0,0.0,430.0,0.5,4.0,46.0
+Minyak dan saus,Mayones (dengan pemanis),60.0,0.2,695.0,0.0,0.3,78.6
+Minyak dan saus,Margarin,0.0,0.0,717.0,0.2,0.7,81.0
+Minyak dan saus,Mentega,0.0,0.0,717.0,0.2,0.7,81.0
+Minyak dan saus,Minyak almond,25.0,0.0,816.0,0.0,0.0,90.7
+Minyak dan saus,Minyak zaitun,0.0,0.0,884.0,0.0,0.0,100.0
+Minyak dan saus,Pesto (saus),15.0,0.9,454.0,5.0,6.0,45.0
+Minyak dan saus,Lemak nabati,0.0,0.0,884.0,0.0,0.0,100.0
+Minyak dan saus,Mentega (tinggi lemak),14.0,0.1,746.0,0.5,0.8,82.0
+Minyak dan saus,Kecap,20.0,1.0,53.0,8.0,4.9,0.6
+Minyak dan saus,Tomat tumbuk,35.0,3.1,38.0,1.7,9.0,0.2
+Minyak dan saus,"Saus tomat (alami, tanpa gula)",35.0,1.3,21.0,1.1,3.8,0.2
+Kacang-kacangan,Kacang tanah,15.0,2.4,567.0,25.8,16.1,49.2
+Kacang-kacangan,Kacang tanah (Kering Panggang),15.0,2.3,559.0,28.0,15.3,52.5
+Kacang-kacangan,Pasta almond putih / pasta (tanpa pemanis),35.0,16.7,458.0,9.0,47.8,27.7
+Kacang-kacangan,Kenari,15.0,1.1,654.0,15.2,7.0,65.2
+Kacang-kacangan,Biji pohon ek,25.0,10.3,387.0,6.0,41.0,24.0
+Kacang-kacangan,Kastanye (Kacang lakci),60.0,26.5,192.0,1.6,44.2,1.2
+Kacang-kacangan,Biji pohon pinus,15.0,2.9,670.0,12.0,19.0,61.0
+Kacang-kacangan,Kacang mete,25.0,3.1,643.0,25.5,12.6,53.6
+Kacang-kacangan,Kacang mete (dikupas),22.0,6.6,570.0,17.0,30.0,42.0
+Kacang-kacangan,Kelapa,45.0,0.8,97.0,1.5,1.7,9.3
+Kacang-kacangan,Kacang-kacang hazelnut,25.0,2.5,704.0,16.1,9.9,66.9
+Kacang-kacangan,Kacang almond,15.0,1.9,609.0,18.6,13.0,53.7
+Kacang-kacangan,Biji kenari,15.0,2.1,654.0,15.0,14.0,65.0
+Kacang-kacangan,Kacang hazelnut,15.0,2.5,628.0,15.0,17.0,61.0
+Kacang-kacangan,Kacang pinus,15.0,1.9,670.0,12.0,19.0,61.0
+Kacang-kacangan,Raisin Nut Mix,21.0,9.8,483.0,11.2,46.6,27.9
+Kacang-kacangan,Tamarind ,65.0,40.8,239.0,2.8,62.7,0.6
+Kacang-kacangan,Pistachio,15.0,4.2,562.0,20.0,28.0,45.0
+Jamur,Jamur,15.0,0.8,26.0,2.5,5.1,0.2
+Jamur,Jamur (dimasak),36.0,1.9,28.0,2.2,5.3,0.5
+Daging,Daging domba,0.0,0.0,203.0,16.3,0.0,15.3
+Daging,Domba rebus,0.0,0.0,293.0,24.6,0.0,21.4
+Daging,Stroganoff (daging sapi khas Rusia),56.0,7.3,207.0,16.6,13.1,5.7
+Daging,"Ham, sliced, sausages",0.0,0.0,234.0,10.0,3.0,20.0
+Daging,"Daging Sapi (steak, dll.)",0.0,0.0,108.0,18.0,0.0,4.0
+Daging,Daging Sapi rebus (tanpa lemak),0.0,0.0,190.0,25.0,0.0,7.0
+Daging,Lidah sapi rebus,0.0,0.0,158.0,12.6,0.8,11.3
+Daging,Otak rebus,0.0,0.0,124.0,11.7,0.0,9.5
+Daging,Hati sapi panggang,50.0,0.0,199.0,22.9,0.0,3.9
+Daging,Angsa,0.0,0.0,412.0,15.2,0.0,39.0
+Daging,Kalkun,0.0,0.0,197.0,21.6,0.8,12.0
+Daging,Kalkun (rebus),0.0,0.0,119.0,21.8,0.0,2.8
+Daging,Sosis masak,34.0,9.5,300.0,12.0,28.0,3.0
+Daging,Potongan daging babi,50.0,9.8,262.0,11.7,19.6,9.6
+Daging,Kelinci,0.0,0.0,199.0,20.7,0.0,12.9
+Daging,Kelinci (goreng),0.0,0.0,155.0,25.0,0.0,6.0
+Daging,Dada ayam rebus,0.0,0.0,137.0,29.8,1.8,5.9
+Daging,Ayam,0.0,0.0,165.0,20.8,0.6,8.8
+Daging,Ayam (goreng),0.0,0.0,145.0,20.0,7.0,1.0
+Daging,Ginjal hewan (dikukus),0.0,0.0,156.0,26.1,0.0,3.2
+Daging,Lemak,0.0,0.0,797.0,2.4,0.0,89.0
+Daging,Sosis,30.0,0.6,332.0,10.1,1.9,31.6
+Daging,Babi goreng,0.0,0.0,407.0,17.7,0.0,28.7
+Daging,Lemak babi,0.0,0.0,489.0,11.4,0.0,49.3
+Daging,Babi panggang,0.0,0.0,215.0,22.2,0.0,10.4
+Daging,Daging babi tanpa lemak,0.0,0.0,316.0,16.4,0.0,27.8
+Daging,Daging anak sapi,0.0,0.0,90.0,19.7,0.0,1.2
+Daging,Daging sapi rebus,0.0,0.0,88.0,16.2,0.0,2.1
+Daging,Bebek panggang,0.0,0.0,407.0,23.2,0.0,19.5
+Daging,Bebek,0.0,0.0,346.0,16.5,0.0,61.2
+Daging,"Foie gras, pasta hati angsa (kalengan)",0.0,0.0,412.0,15.2,0.0,39.0
+Sayuran,Kacang putih,35.0,21.4,334.0,22.0,61.0,1.0
+Sayuran,Kacang putih (rebus),33.0,8.3,140.0,9.3,25.0,0.5
+Sayuran,Kedelai,15.0,4.5,446.0,36.0,30.0,20.0
+Sayuran,"Kacang, fava (mentah)",40.0,7.2,88.0,8.0,18.0,0.7
+Sayuran,"Kacang polong (hijau, segar)",35.0,4.5,73.0,5.0,12.8,0.2
+Sayuran,"Kacang polong (beku, direbus)",51.0,4.6,60.0,6.0,9.0,0.8
+Sayuran,Sup kacang polong,60.0,3.7,70.0,8.3,6.2,1.4
+Sayuran,Kacang polong hijau (kaleng),45.0,2.9,40.0,3.1,6.5,0.2
+Sayuran,Kacang polong hijau,15.0,1.5,69.0,4.0,10.0,0.2
+Sayuran,Orache,53.0,34.0,368.0,14.1,64.2,6.1
+Sayuran,Selada (segar),15.0,0.5,14.0,0.9,3.0,0.1
+Sayuran,Bawang (segar),15.0,1.6,47.0,1.4,10.4,0.0
+Sayuran,Bawang prei,15.0,1.2,33.0,2.0,8.2,0.0
+Sayuran,Bawang merah,15.0,2.5,72.0,2.5,16.8,0.1
+Sayuran,Kacang polong kupas (segar),25.0,15.0,341.0,25.0,60.0,1.2
+Sayuran,Mung Bean Mung,25.0,15.8,347.0,24.0,63.0,1.2
+Sayuran,Kacang Arab,10.0,6.1,364.0,19.0,61.0,6.0
+Sayuran,Kacang Arab (kaleng),35.0,6.8,125.0,7.2,19.5,3.4
+Sayuran,Kacang Polong / Kacang Polong Biasa (Segar),35.0,5.9,102.0,7.0,16.9,0.5
+Sayuran,"Kacang berwarna-warni, borlotti, kacang romawi",35.0,12.4,335.0,23.0,35.3,1.2
+Sayuran,Peterseli,15.0,0.9,36.0,3.0,6.3,0.8
+Sayuran,Peterseli (dimasak),52.0,3.3,36.0,3.0,6.3,0.8
+Sayuran,Tunas bambu,20.0,1.0,27.0,2.6,5.0,0.3
+Sayuran,Tunas lentil,25.0,5.5,119.0,9.0,22.1,0.6
+Sayuran,"Selada (""esberg"", daun, arugula, dll.)",15.0,0.3,25.0,2.6,2.1,0.7
+Sayuran,Jagung manis,48.0,8.9,96.0,3.4,18.6,1.5
+Sayuran,Jagung manis rebus,60.0,13.5,123.0,4.1,22.5,2.3
+Sayuran,Akar Bit,15.0,0.6,19.0,1.8,3.7,0.2
+Sayuran,"Seledri (rebus, tanpa garam)",85.0,4.0,27.0,1.0,4.7,0.2
+Sayuran,Seledri (segar),15.0,0.3,12.0,0.9,2.1,0.1
+Sayuran,Asparagus,15.0,0.6,20.0,2.2,3.9,0.1
+Sayuran,Kacang panjang (Segar),30.0,1.1,24.0,2.0,3.6,0.2
+Sayuran,Tempe,15.0,1.4,193.0,19.0,9.0,11.0
+Sayuran,"Tahu, tahu kedelai",15.0,0.1,73.0,8.1,0.6,4.2
+Sayuran,Dill (segar),25.0,1.6,38.0,2.5,6.3,0.5
+Sayuran,Kacang urad (dikukus),43.0,27.1,347.0,24.0,63.0,1.2
+Sayuran,"Falafel (dari kacang, fava)",40.0,8.4,121.0,6.0,21.0,1.0
+Sayuran,Falafel (kacang arab),65.0,28.1,264.0,13.9,43.3,4.8
+Sayuran,Kacang (dimasak),80.0,17.2,123.0,7.8,21.5,0.5
+Sayuran,Kacang Azuki,35.0,22.0,329.0,19.9,62.9,0.5
+Sayuran,Kacang hijau,30.0,2.1,31.0,1.8,7.0,0.1
+Sayuran,Kacang merah,35.0,18.4,310.0,21.0,52.7,1.6
+Sayuran,Adas,15.0,1.1,31.0,1.2,7.0,0.2
+Sayuran,Hummus,25.0,3.5,166.0,8.0,14.0,10.0
+Sayuran,Lentil (kuning),30.0,19.6,332.0,22.3,65.5,1.0
+Sayuran,Lentil (hijau),25.0,12.5,300.0,24.0,50.0,1.0
+Sayuran,Bayam,15.0,0.3,22.0,2.9,2.0,0.3
+Sayuran,Daun bawang,15.0,0.0,19.0,1.5,0.3,2.9
+Sayuran,Endive,15.0,0.0,17.0,1.3,0.3,0.2
+Biji-bijian,Amaran (analog dari popcorn),70.0,43.4,298.0,9.0,62.0,2.0
+Biji-bijian,Biji amaranth (belum siap),35.0,19.9,370.0,14.0,57.0,6.0
+Biji-bijian,"Jagung putih, jagung manis, jagung beku",55.0,10.4,86.0,3.2,19.0,1.1
+Biji-bijian,Bulgur,55.0,10.2,83.0,3.1,18.6,0.2
+Biji-bijian,Vermicelli gandum durum,35.0,8.1,112.0,3.4,23.1,0.4
+Biji-bijian,Vermicelli kedelai,30.0,24.6,330.0,0.1,82.0,0.1
+Biji-bijian,Buckwheat,50.0,22.0,277.0,8.0,44.0,8.0
+Biji-bijian,Beras liar,45.0,33.8,357.0,15.0,75.0,1.1
+Biji-bijian,Jagung kuning,65.0,10.1,101.0,3.5,15.6,2.8
+Biji-bijian,Biji (berkecambah),15.0,6.2,198.0,7.5,41.4,1.3
+Biji-bijian,Bar energi (tanpa gula),50.0,23.4,342.0,8.8,46.7,14.9
+Biji-bijian,"Sereal, utuh (tanpa gula)",45.0,27.3,350.0,18.1,60.6,1.5
+Biji-bijian,"Kamut, Gandum Mesir (dimasak)",40.0,25.4,342.0,13.9,63.5,2.0
+Biji-bijian,Capellini (pasta),45.0,32.9,364.0,12.0,73.0,1.9
+Biji-bijian,Tepung kentang (pati),95.0,78.9,357.0,6.9,83.1,0.3
+Biji-bijian,Bubur buckwheat,40.0,12.4,163.0,6.0,31.0,2.0
+Biji-bijian,Bubur jagung (mamalyga),70.0,14.7,92.0,2.0,21.0,1.0
+Biji-bijian,"Bubur oat (hancur), hidangan bubur oat",60.0,9.0,88.0,3.0,15.0,1.7
+Biji-bijian,Bubur millet,70.0,18.9,180.0,5.0,27.0,5.0
+Biji-bijian,Bubur nasi dengan susu (dengan gula),75.0,13.6,146.0,3.4,18.1,6.0
+Biji-bijian,Quinoa (belum siap),40.0,22.8,368.0,14.1,57.1,6.0
+Biji-bijian,Quinoa (dimasak),35.0,7.3,120.0,4.4,21.0,1.9
+Biji-bijian,Tepung maizena,85.0,72.3,340.0,0.0,85.1,0.0
+Biji-bijian,Sagu mutiara barley (dikukus),60.0,40.1,315.0,9.3,66.9,1.1
+Biji-bijian,Beras mutiara,25.0,15.8,324.0,10.0,63.3,1.3
+Biji-bijian,Jagung (kaleng),65.0,26.6,96.0,3.4,18.6,1.5
+Biji-bijian,Jagung segar,35.0,1.8,148.0,2.2,5.0,13.0
+Biji-bijian,Sereal Jagung,85.0,55.3,320.0,5.5,65.0,1.0
+Biji-bijian,kuskus,60.0,12.0,152.0,3.3,20.0,6.7
+Biji-bijian,Lasagna,47.0,7.0,135.0,7.0,15.0,5.0
+Biji-bijian,Mie soba,59.0,41.6,348.0,14.7,70.5,0.9
+Biji-bijian,Mie beras,65.0,16.2,109.0,0.9,24.9,0.2
+Biji-bijian,mie udon,62.0,8.5,76.0,1.9,13.7,1.5
+Biji-bijian,Linen,35.0,9.7,469.0,21.8,27.7,39.5
+Biji-bijian,Pasta Gandum Utuh,40.0,10.6,124.0,5.3,26.5,0.5
+Biji-bijian,Semacam spageti,50.0,15.4,158.0,5.8,30.9,0.9
+Biji-bijian,Pasta (dari gandum durum),50.0,11.6,111.0,3.4,23.1,0.4
+Biji-bijian,Pasta Soba,40.0,28.4,350.0,14.1,70.9,1.0
+Biji-bijian,"Makaroni, Tepung Kelapa",32.0,18.1,433.0,3.3,56.6,23.3
+Biji-bijian,Semolina gandum durum,60.0,42.4,333.0,10.3,70.6,1.0
+Biji-bijian,Matzo (tepung putih),70.0,58.8,395.0,10.0,84.0,1.4
+Biji-bijian,Tepung soba,40.0,28.2,335.0,12.6,70.6,3.1
+Biji-bijian,Tepung gandum,60.0,33.5,298.0,11.5,55.8,2.2
+Biji-bijian,Tepung Garut,85.0,72.0,357.0,0.3,84.7,0.1
+Biji-bijian,Tepung kamut,45.0,32.4,333.0,15.6,72.0,1.7
+Biji-bijian,Tepung quinoa,40.0,22.9,368.0,14.1,57.2,6.0
+Biji-bijian,Tepung yang dieja,45.0,30.5,361.0,17.0,67.8,2.4
+Biji-bijian,Tepung kastanye,65.0,46.1,365.0,6.4,71.0,3.7
+Biji-bijian,Tepung jagung,70.0,53.8,361.0,6.9,76.8,3.9
+Biji-bijian,Tepung buncis,35.0,23.1,337.0,10.9,66.0,2.9
+Biji-bijian,Tepung terigu kupas (gandum utuh),65.0,44.8,334.0,10.3,68.9,1.1
+Biji-bijian,Tepung terigu premium,85.0,58.6,334.0,10.3,68.9,1.1
+Biji-bijian,Tepung gandum utuh,45.0,28.9,309.0,11.3,64.2,1.8
+Biji-bijian,Tepung beras,95.0,76.1,366.0,5.9,80.1,1.4
+Biji-bijian,Tepung kedelai,25.0,4.5,385.0,36.5,17.9,18.6
+Biji-bijian,Muesli,56.0,31.6,382.0,10.6,56.5,11.8
+Biji-bijian,Muesli (bebas gula),50.0,23.6,254.0,6.6,47.3,3.2
+Biji-bijian,Muesli (dengan gula atau madu),65.0,43.8,464.0,8.2,67.4,16.6
+Biji-bijian,gnocchi,70.0,14.0,93.0,3.2,20.0,1.2
+Biji-bijian,"Oat, Hercules",59.0,36.0,352.0,12.5,61.0,6.2
+Biji-bijian,Bubur oat instan,74.0,41.4,350.0,14.0,56.0,7.5
+Biji-bijian,Oatmeal (dimasak di atas air),60.0,9.0,88.0,3.0,15.0,1.7
+Biji-bijian,"Dedak (gandum, oat)",15.0,6.8,320.0,18.0,45.3,7.7
+Biji-bijian,Pasta Gandum,50.0,32.1,352.0,13.9,64.2,2.9
+Biji-bijian,Pasta gandum utuh dibuat secara al dente,40.0,14.6,237.0,8.4,36.5,0.4
+Biji-bijian,Pasta jagung,68.0,46.4,357.0,7.5,68.3,2.1
+Biji-bijian,Perlovka,25.0,18.4,320.0,9.3,73.7,1.1
+Biji-bijian,Biji bunga matahari),35.0,7.0,584.0,21.0,20.0,51.0
+Biji-bijian,Gandum yang dieja,40.0,24.5,337.0,14.7,61.2,2.2
+Biji-bijian,Jawawut,70.0,51.1,378.0,11.0,73.0,4.2
+Biji-bijian,Gandum Gandum Utuh,45.0,26.8,305.0,11.8,59.5,2.2
+Biji-bijian,"Tepung terigu, putih (tidak diperkaya)",85.0,62.6,364.0,10.3,73.6,1.0
+Biji-bijian,Serpihan gandum,45.0,27.4,340.0,11.0,61.0,2.6
+Biji-bijian,Tepung gandum hitam (penggilingan sedang),50.0,27.9,280.0,9.4,55.9,2.3
+Biji-bijian,serpihan gandum hitam,45.0,37.2,343.0,6.4,82.6,3.2
+Biji-bijian,risotto,70.0,22.1,168.0,4.5,31.6,3.4
+Biji-bijian,Nasi Rasa,70.0,6.7,365.0,7.0,80.0,0.7
+Biji-bijian,Nasi Basmati,50.0,37.5,340.0,9.5,75.0,0.2
+Biji-bijian,Nasi Basmati yang belum dikupas,45.0,16.2,125.0,2.7,36.0,0.7
+Biji-bijian,Standar nasi putih,70.0,17.4,130.0,2.7,28.0,0.3
+Biji-bijian,Nasi instan,85.0,65.5,348.0,7.3,77.0,12.0
+Biji-bijian,Nasi liar (hitam),35.0,7.3,101.0,4.1,21.0,0.4
+Biji-bijian,Nasi bulir panjang,60.0,46.8,365.0,7.1,78.0,0.7
+Biji-bijian,Nasi Melati,60.0,44.0,331.0,6.9,73.4,0.2
+Biji-bijian,Ketan,90.0,18.9,370.0,7.0,82.0,0.6
+Biji-bijian,beras merah,50.0,36.5,337.0,7.4,72.9,1.8
+Biji-bijian,Beras merah,55.0,38.8,362.0,10.5,70.5,2.5
+Biji-bijian,Serpihan nasi,80.0,61.6,360.0,7.0,77.0,2.0
+Biji-bijian,Biji (labu),25.0,13.5,446.0,19.0,54.0,19.0
+Biji-bijian,Biji Chia (Kering),30.0,12.6,512.0,16.5,42.1,30.7
+Biji-bijian,Campuran sereal olahan dengan gula,70.0,16.2,96.0,2.4,23.1,0.4
+Biji-bijian,Sorgum,70.0,46.5,323.0,11.8,66.4,3.3
+Biji-bijian,Spageti (dimasak dengan baik),55.0,12.8,112.0,3.5,23.2,0.4
+Biji-bijian,Spageti Gandum Utuh,40.0,10.6,124.0,5.3,26.5,0.5
+Biji-bijian,Spageti al dente,45.0,21.5,271.0,9.3,47.8,0.7
+Biji-bijian,Spaghetti bolognese,52.0,9.9,191.0,9.5,19.1,8.1
+Biji-bijian,Tagliatelle (dimasak dengan baik),55.0,34.8,374.0,21.7,63.3,2.2
+Biji-bijian,"Tortilla, Jagung Putih",49.0,23.1,286.0,7.0,47.2,7.7
+Biji-bijian,Fettuccine,32.0,21.6,384.0,14.1,67.6,4.4
+Biji-bijian,Gandum Utuh (Gandum Hitam),34.0,19.0,283.0,9.9,55.8,2.2
+Biji-bijian,ubi,65.0,18.2,118.0,1.5,28.0,0.2
+Biji-bijian,Bubur jelai,70.0,46.1,310.0,11.5,65.8,2.0
+Biji-bijian,Tepung barley,30.0,16.8,284.0,10.0,56.1,1.6
+Buah-buahan,Aprikot,34.0,3.8,48.0,1.4,11.1,0.4
+Buah-buahan,Aprikot (kalengan dalam sirup),60.0,12.9,83.0,0.5,21.5,0.1
+Buah-buahan,Quince (kalengan/jeli tanpa gula),40.0,3.8,45.0,0.6,9.6,0.5
+Buah-buahan,Quince (kalengan/jeli dengan gula),65.0,7.2,50.0,0.6,11.0,0.5
+Buah-buahan,Quince (buah segar),35.0,3.4,40.0,0.6,9.8,0.5
+Buah-buahan,buah prem ceri,25.0,0.0,27.0,0.2,0.0,6.4
+Buah-buahan,nanas,66.0,8.6,50.0,0.5,13.1,0.1
+Buah-buahan,Nanas (kalengan dalam sirup),65.0,10.1,66.0,0.5,15.6,0.1
+Buah-buahan,Jeruk (buah segar),35.0,4.1,47.0,0.9,11.7,0.1
+Buah-buahan,Semangka,75.0,5.6,30.0,0.6,7.5,0.1
+Buah-buahan,"Acerola, Ceri Barbados (segar)",20.0,0.1,32.0,0.4,0.3,7.7
+Buah-buahan,pisang,48.0,10.1,88.0,1.5,21.0,0.5
+Buah-buahan,Pisang Pencuci Mulut (Hijau),45.0,15.7,137.0,1.5,34.9,0.7
+Buah-buahan,Pisang pencuci mulut (matang),60.0,13.1,95.0,1.0,21.8,0.3
+Buah-buahan,Platano (mentah),45.0,14.4,122.0,1.3,32.0,0.4
+Buah-buahan,Pisang (Kering),48.0,42.4,346.0,3.9,88.3,1.8
+Buah-buahan,"Anggur, hijau (mentah)",45.0,5.4,52.0,1.0,12.0,0.0
+Buah-buahan,"Anggur, merah (mentah)",45.0,8.1,69.0,0.7,18.0,0.2
+Buah-buahan,Anggur,56.0,9.6,69.0,0.7,17.2,0.2
+Buah-buahan,"Anggur, hitam",59.0,11.0,65.0,1.3,18.7,0.3
+Buah-buahan,"Ceri (manis, segar)",25.0,4.0,63.0,1.1,16.0,0.2
+Buah-buahan,blueberry,25.0,2.0,35.0,1.0,8.2,0.0
+Buah-buahan,Delima (segar),35.0,6.7,83.0,1.7,19.0,0.0
+Buah-buahan,Jeruk bali,22.0,0.0,35.0,0.7,0.2,6.5
+Buah-buahan,Jeruk Bali Kalengan,47.0,4.3,36.0,0.6,9.1,0.1
+Buah-buahan,"Pomelo, sheddock (segar)",25.0,2.0,32.0,0.6,8.1,0.1
+Buah-buahan,Pir (buah segar),30.0,4.7,75.0,0.6,15.5,0.1
+Buah-buahan,Pir melon (pepino),40.0,8.0,80.0,0.0,20.0,0.0
+Buah-buahan,Pir kalengan,55.0,8.6,65.0,0.2,15.6,0.0
+Buah-buahan,Pir (kering),43.0,26.9,249.0,2.3,62.6,0.6
+Buah-buahan,Melon,65.0,5.2,34.0,0.8,8.0,0.2
+Buah-buahan,Blackberry (beri segar),25.0,2.5,43.0,1.4,10.0,0.5
+Buah-buahan,Gooseberry kuning,15.0,1.8,43.0,0.7,12.0,0.2
+Buah-buahan,kismis,65.0,51.5,299.0,3.1,79.2,0.5
+Buah-buahan,Kismis (merah dan emas),65.0,46.8,301.0,2.0,72.0,0.5
+Buah-buahan,Gambar (segar),35.0,6.7,74.0,0.7,19.2,0.3
+Buah-buahan,Gambar (kering),50.0,28.9,257.0,3.1,57.9,0.8
+Buah-buahan,Kiwi,50.0,7.3,61.0,1.1,14.7,0.5
+Buah-buahan,Stroberi (beri segar),25.0,1.9,32.0,0.7,7.7,0.3
+Buah-buahan,Cranberry (segar),45.0,5.5,46.0,0.4,12.2,0.1
+Buah-buahan,Aprikot kering,35.0,21.2,260.0,3.5,60.7,1.4
+Buah-buahan,Lemon (Buah Segar),20.0,0.6,16.0,0.9,3.0,0.1
+Buah-buahan,Leci (buah segar),50.0,7.6,66.0,0.8,15.2,0.4
+Buah-buahan,Leci (sirup kalengan),79.0,14.8,76.0,0.4,18.7,0.5
+Buah-buahan,Raspberry (beri segar),25.0,3.0,53.0,1.2,12.0,0.7
+Buah-buahan,buah mangga,56.0,8.4,60.0,0.8,15.0,0.4
+Buah-buahan,Mandarin,30.0,3.9,53.0,0.8,13.0,0.3
+Buah-buahan,Jeruk keprok (kalengan),47.0,4.2,37.0,0.6,8.9,0.3
+Buah-buahan,Markisa,30.0,6.9,97.0,2.2,23.0,0.7
+Buah-buahan,Cloudberry (beri segar),25.0,1.7,31.0,0.8,6.8,0.0
+Buah-buahan,Plum Jepang medlar,55.0,5.7,47.0,0.4,10.4,0.2
+Buah-buahan,Nektarin (buah segar),35.0,4.1,48.0,0.9,11.8,0.2
+Buah-buahan,buckthorn laut,30.0,0.8,52.0,0.9,2.5,5.0
+Buah-buahan,Pir berduri (buah segar),35.0,3.4,41.0,0.7,9.6,0.5
+Buah-buahan,Pepaya (segar),60.0,5.5,48.0,0.6,9.2,0.1
+Buah-buahan,"Pepino, pir melon",40.0,8.0,80.0,0.0,20.0,0.0
+Buah-buahan,Persik (kalengan dalam sirup),55.0,8.1,68.0,0.3,14.7,0.1
+Buah-buahan,Persik (buah segar),35.0,4.0,46.0,0.9,11.3,0.1
+Buah-buahan,Persik Kering,35.0,20.2,254.0,3.0,57.7,0.4
+Buah-buahan,Platano (dimasak),70.0,27.4,155.0,1.5,39.2,0.2
+Buah-buahan,Plantano (Mentah),45.0,13.6,122.0,1.3,30.2,0.4
+Buah-buahan,Buah sukun,65.0,17.6,103.0,1.1,27.0,0.2
+Buah-buahan,jeruk bali,30.0,3.0,38.0,0.8,10.0,0.0
+Buah-buahan,"Buah markisa, granadilla (segar)",30.0,4.0,68.0,2.4,13.4,0.4
+Buah-buahan,Plum (segar),35.0,3.9,46.0,0.7,11.0,0.3
+Buah-buahan,Kismis merah (beri segar),25.0,1.9,43.0,0.6,7.7,0.2
+Buah-buahan,Kismis hitam (beri segar),15.0,1.1,44.0,1.0,7.3,0.4
+Buah-buahan,Buah kering,60.0,49.8,359.0,1.0,83.0,2.7
+Buah-buahan,"Jeruk keprok, jeruk keprok, satsuma (segar)",30.0,3.9,53.0,0.8,13.0,0.3
+Buah-buahan,Ciplukan,15.0,0.6,50.0,1.2,0.4,10.6
+Buah-buahan,tanggal,70.0,48.4,274.0,2.5,69.2,0.5
+Buah-buahan,Kurma kering,40.0,27.7,292.0,2.5,69.2,0.5
+Buah-buahan,"Kesemek, kesemek timur (segar)",50.0,7.7,66.0,0.5,15.3,0.3
+Buah-buahan,Ceri manis,25.0,0.1,50.0,1.2,0.4,10.6
+Buah-buahan,Bluberi,53.0,4.0,44.0,1.1,7.6,0.4
+Buah-buahan,buah plum,40.0,25.6,240.0,2.2,64.0,0.4
+Buah-buahan,Apel kering,35.0,20.6,231.0,2.2,59.0,0.1
+Buah-buahan,Sebuah apel,36.0,5.0,52.0,0.3,14.0,0.2
+Buah-buahan,Saus apel (tanpa pemanis),35.0,4.0,42.0,0.2,11.3,0.1
+Buah-buahan,Goji berry,25.0,13.3,309.0,11.1,53.4,2.6
+Fast foods,roti isi daging,66.0,1.3,258.0,30.8,1.9,13.7
+Fast foods,Kentang instan,87.0,66.1,373.0,10.0,76.0,5.0
+Fast foods,Keripik kentang,70.0,37.0,491.0,7.7,52.8,32.4
+Fast foods,kentang goreng,75.0,22.6,276.0,3.8,30.1,15.5
+Fast foods,mie Cina,35.0,23.4,336.0,12.0,67.0,1.0
+Fast foods,Keripik jagung,63.0,28.8,518.0,6.0,63.0,28.0
+Fast foods,Mie instan,52.0,29.5,448.0,8.8,56.7,20.7
+Fast foods,Jagung meletus,55.0,40.7,375.0,11.0,74.0,4.3
+Fast foods,"Keripik, jagung, asin",42.0,25.6,497.0,7.0,61.0,25.0
+Dairy,"Es krim vanilla (biasa, dengan gula)",60.0,14.4,207.0,3.5,24.0,11.0
+Dairy,yogurt,35.0,1.6,82.0,9.1,4.7,3.4
+Dairy,"Yoghurt 1,5% alami",35.0,0.5,47.0,5.0,1.5,3.5
+Dairy,Yoghurt manis,52.0,4.7,71.0,2.8,9.1,2.5
+Dairy,Yoghurt kedelai (alami),20.0,1.6,64.0,3.7,8.0,2.0
+Dairy,Yoghurt buah,52.0,1.5,105.0,5.1,2.8,15.7
+Dairy,Yoghurt bebas lemak,33.0,2.5,56.0,5.7,7.6,0.2
+Dairy,Kefir (1% lemak),31.0,1.2,37.0,3.0,4.0,1.0
+Dairy,Kefir (biasa),36.0,1.4,56.0,2.8,4.0,3.2
+Dairy,Kefir rendah lemak,25.0,0.0,30.0,3.0,0.1,3.8
+Dairy,Susu kambing,24.0,1.1,69.0,3.6,4.4,4.1
+Dairy,Susu almon,30.0,3.9,51.0,18.6,13.0,53.7
+Dairy,susu,31.0,1.6,53.0,3.0,5.0,2.5
+Dairy,Santan,40.0,1.1,197.0,2.0,2.8,21.3
+Dairy,Susu alami,32.0,1.3,60.0,3.1,4.2,4.8
+Dairy,susu skim,27.0,0.1,31.0,3.0,0.2,4.7
+Dairy,Susu oat (mentah),69.0,3.5,48.0,0.8,5.1,2.75
+Dairy,Nasi susu,85.0,5.5,30.0,0.6,6.5,0.1
+Dairy,Susu kedelai,30.0,1.8,54.0,3.3,6.0,1.8
+Dairy,Susu cokelat,34.0,3.7,88.0,3.3,10.9,3.6
+Dairy,Susu,34.0,1.6,63.0,3.1,4.6,3.6
+Dairy,Es krim,62.0,14.9,207.0,3.5,24.0,11.0
+Dairy,Es krim (dengan fruktosa),35.0,9.4,391.0,10.7,27.0,26.5
+Dairy,Es krim susu kedelai,35.0,6.0,180.0,10.9,17.0,7.3
+Dairy,"Es krim (skim, vanila)",46.0,13.8,138.0,4.5,30.1,0.0
+Dairy,keju skim,30.0,0.4,71.0,16.5,1.3,0.0
+Dairy,Krim,0.0,0.0,196.0,2.7,3.7,19.0
+Dairy,Krim (18%),33.0,1.3,189.0,2.9,3.8,18.0
+Dairy,Krim (30%),0.0,0.0,296.0,2.8,3.7,30.0
+Dairy,Krim (10%),30.0,3.0,118.0,2.8,10.0,3.7
+Dairy,Krim asam,0.0,0.0,193.0,2.7,3.7,19.0
+Dairy,Krim asam (20%),56.0,11.2,204.0,2.8,20.0,3.2
+Dairy,krim kedelai,20.0,12.9,500.0,3.4,64.4,25.5
+Dairy,"Keju (Mozzarella, keju cottage yang ditekan, dll.)",0.0,0.0,242.0,18.8,1.0,18.1
+Dairy,Keju yang diawetkan,57.0,15.4,323.0,20.0,27.0,3.8
+Dairy,Keju tahu,15.0,0.6,73.0,8.1,4.2,0.6
+Dairy,Keju Feta,30.0,1.2,264.0,14.0,4.1,21.0
+Dairy,Pancake keju cottage,70.0,8.4,220.0,17.4,12.0,10.6
+Dairy,Pondok keju,30.0,0.8,103.0,12.5,2.7,4.5
+Dairy,Keju cottage 9% lemak,30.0,2.7,185.0,14.0,9.0,2.0
+Dairy,Keju cottage rendah lemak,30.0,0.3,88.0,18.0,1.0,1.2
+Dairy,dadih,45.0,10.3,340.0,7.0,23.0,10.0
+Dairy,Susu murni 3%,27.0,1.2,64.0,3.3,4.6,3.7
+Dairy,keju cheddar,0.0,0.0,402.0,25.0,1.3,33.0
+Minuman,Sirup agave),15.0,11.4,310.0,0.0,76.0,0.5
+Minuman,Jus Nanas (tanpa pemanis),50.0,6.8,56.0,0.4,13.6,0.1
+Minuman,Jus jeruk (perasan segar dan bebas gula),45.0,4.8,46.0,0.8,10.6,0.3
+Minuman,Jus Anggur (tanpa pemanis),45.0,6.9,60.0,0.0,15.4,0.0
+Minuman,Jus jeruk bali (tanpa pemanis),45.0,2.7,28.0,3.0,6.1,0.0
+Minuman,Biji kopi,50.0,0.1,2.0,0.2,0.3,0.0
+Minuman,Bubuk Kakao (Bebas Gula),20.0,4.4,358.0,27.6,21.8,11.6
+Minuman,Jus Cranberry (tanpa pemanis),50.0,7.3,58.0,0.0,14.5,0.1
+Minuman,Jus lemon (tanpa pemanis),20.0,0.6,16.0,0.9,3.0,0.1
+Minuman,Jus Wortel (tanpa pemanis),40.0,2.6,28.0,1.1,6.4,0.1
+Minuman,"Minuman ringan (soda, cola)",60.0,6.0,38.0,0.1,10.0,0.0
+Minuman,Bir,70.0,2.5,43.0,0.5,3.6,0.0
+Minuman,sari kering,40.0,11.6,117.0,0.2,28.9,0.3
+Minuman,Jus nanas (bebas gula),50.0,6.4,53.0,0.3,12.8,0.1
+Minuman,Jus anggur (bebas gula),55.0,9.3,65.0,0.0,17.0,0.0
+Minuman,Jus jeruk bali (bebas gula),45.0,4.5,40.0,0.0,10.0,0.0
+Minuman,Jus buah pir,50.0,5.5,46.0,0.4,11.0,0.3
+Minuman,Jus cranberry (bebas gula),50.0,7.3,58.0,0.0,14.55,0.1
+Minuman,Jus bit merah,64.0,0.0,42.0,1.0,0.0,9.9
+Minuman,Jus tomat,35.0,1.5,17.0,0.8,4.2,0.1
+Minuman,Jus apel (bebas gula),50.0,5.7,47.0,0.11,11.3,0.14
+Minuman,jus jeruk,48.0,4.8,45.0,0.7,10.0,0.2
+Minuman,jus apel,41.0,4.5,46.0,0.1,11.0,0.1
+Minuman,Minuman olahraga,75.0,2.9,16.0,0.0,3.9,0.0
+Minuman,Chicory,15.0,0.6,21.0,1.7,4.1,0.2
+Minuman,sawi putih (minuman),40.0,1.1,11.0,0.1,2.8,0.0
+Minuman,Sari apel (brut),40.0,0.0,33.0,0.0,0.0,26.1
+Minuman,Jus Apel (tanpa pemanis),40.0,4.9,49.0,0.1,12.2,0.1
+Kue dan roti,Baguette (putih),95.0,46.5,240.0,7.5,49.0,2.5
+Kue dan roti,Baguette (gandum utuh),73.0,28.3,219.0,6.3,38.8,1.2
+Kue dan roti,Bagel (gandum),70.0,35.4,257.0,10.0,50.5,1.6
+Kue dan roti,Biskuit,70.0,34.0,365.0,6.2,48.5,16.5
+Kue dan roti,Biscotti (kue kering),70.0,35.0,358.0,6.0,50.0,15.0
+Kue dan roti,pancake,66.0,16.6,185.0,5.5,25.2,7.5
+Kue dan roti,Pancake soba,40.0,3.6,215.0,6.0,9.0,25.6
+Kue dan roti,Brioche (roti),70.0,32.9,236.0,5.0,47.0,4.0
+Kue dan roti,roti bagel,70.0,48.1,312.0,10.4,68.7,1.3
+Kue dan roti,Roti hamburger,61.0,30.1,279.0,9.5,49.4,4.3
+Kue dan roti,wafel,75.0,54.3,433.0,6.6,72.4,14.2
+Kue dan roti,croissant,70.0,21.7,287.0,6.3,31.0,14.0
+Kue dan roti,Roti biasa,69.0,38.6,354.0,7.5,56.0,10.9
+Kue dan roti,"Kue Roti Pendek (Tepung Integral, Bebas Gula)",40.0,17.2,398.0,22.0,43.0,23.0
+Kue dan roti,kue,60.0,32.2,364.0,5.5,53.7,14.6
+Kue dan roti,"Cookies (tepung gandum utuh, bebas gula)",50.0,23.4,273.0,10.0,46.8,5.6
+Kue dan roti,Cookies (kue kering),70.0,46.2,460.0,7.0,66.0,18.0
+Kue dan roti,"Kue mentega (tepung, mentega, gula)",55.0,29.1,549.0,7.0,53.0,18.0
+Kue dan roti,Kue gandum,55.0,39.5,437.0,6.5,71.8,14.4
+Kue dan roti,Kue Multi Gandum,51.0,33.2,429.0,11.0,65.1,17.9
+Kue dan roti,Pai Pisang,47.0,17.1,257.0,4.7,36.4,10.3
+Kue dan roti,Pita,57.0,31.9,275.0,9.0,56.0,1.2
+Kue dan roti,Pizza,60.0,19.8,266.0,11.0,33.0,10.0
+Kue dan roti,Donat,75.0,38.3,452.0,4.9,51.0,25.0
+Kue dan roti,Produk roti (gandum),90.0,33.9,201.0,7.7,37.7,1.4
+Kue dan roti,Roti gandum,70.0,34.3,265.0,9.0,49.0,3.2
+Kue dan roti,Roti gandum hitam,65.0,31.2,259.0,9.0,48.0,3.3
+Kue dan roti,Wafel nasi,64.0,52.3,374.0,8.5,81.7,3.3
+Kue dan roti,Biskuit nasi,85.0,58.6,310.0,6.0,69.0,1.0
+Kue dan roti,Kue beras,85.0,69.7,387.0,8.0,82.0,2.8
+Kue dan roti,Jerami,60.0,41.6,372.0,9.1,69.3,6.1
+Kue dan roti,Kerupuk gandum hitam,64.0,44.8,336.0,16.0,70.0,1.0
+Kue dan roti,"Roti lapis, putih",75.0,39.4,285.0,7.3,52.5,3.9
+Kue dan roti,Baguette Perancis terbuat dari tepung terigu,70.0,23.4,179.0,6.5,33.4,2.4
+Kue dan roti,Roti (oatmeal),47.0,19.2,226.0,7.1,40.8,3.2
+Kue dan roti,Roti putih “baguette”,70.0,36.0,262.0,7.5,51.4,2.9
+Kue dan roti,Roti putih bebas gluten,90.0,14.0,129.0,3.5,15.6,5.8
+Kue dan roti,Roti soba,50.0,22.9,228.0,7.1,45.8,2.5
+Kue dan roti,Roti ragi coklat,65.0,26.0,250.0,13.0,40.0,3.0
+Kue dan roti,Roti tepung putih,90.0,43.9,242.0,8.1,48.8,1.0
+Kue dan roti,Roti gandum biji utuh,65.0,31.2,250.0,7.0,48.0,1.0
+Kue dan roti,Roti yang sudah berkecambah,35.0,12.7,204.0,6.8,36.4,3.1
+Kue dan roti,Roti susu,60.0,29.9,243.0,7.1,49.8,2.1
+Kue dan roti,Roti Pumpernickel,45.0,21.6,250.0,9.0,48.0,3.1
+Kue dan roti,Roti Beras,70.0,48.0,306.0,6.3,68.6,0.7
+Kue dan roti,Roti dedak,65.0,29.4,227.0,7.0,45.2,1.3
+Kue dan roti,Roti labu,40.0,17.0,211.0,5.5,42.6,2.4
+Kue dan roti,Roti buah,47.0,24.4,370.0,7.6,52.0,7.4
+Buah,Semangka,72,4,30,0.6,8.0,0.2
+Buah,Nanas,66,6,50,0.5,13.0,0.1
+Buah,Mangga,60,8,60,0.8,15.0,0.4
+Buah,Pisang matang,62,16,89,1.1,23.0,0.3
+Bijian,Roti putih,75,13,265,9.0,49.0,3.2
+Bijian,Nasi putih,73,15,130,2.4,28.0,0.3
+Sayuran,Kentang tumbuk,85,20,120,2.0,27.0,0.1
+Sayuran,Jagung rebus,60,15,96,3.4,21.0,1.5
+Bijian,Pasta putih,70,22,124,5.0,25.0,0.7
+Processed Foods,Maltodekstrin,95,94,380,0.0,99.0,0.0
+Processed Foods,Sereal jagung,81,23,357,7.0,84.0,2.0
+Processed Foods,Donat,76,25,452,5.0,51.0,25.0
+Dairy,Es krim,61,12,207,3.5,27.0,11.0
+Dairy,Susu skim,58,4,35,3.4,5.0,0.2
+Bijian,Roti gandum,74,12,247,8.0,45.0,3.4
+Bijian,Tortilla jagung,70,9,218,5.8,44.0,2.2
+Processed Foods,Kentang goreng,75,22,312,3.5,41.0,15.0
+Processed Foods,Biskuit manis,69,15,480,6.5,60.0,23.0
+Buah,Semangka,72,4,30,0.6,8.0,0.2
+Buah,Nanas,66,6,50,0.5,13.0,0.1
+Buah,Mangga,60,8,60,0.8,15.0,0.4
+Buah,Pisang matang,62,16,89,1.1,23.0,0.3
+Bijian,Roti putih,75,13,265,9.0,49.0,3.2
+Bijian,Nasi putih,73,15,130,2.4,28.0,0.3
+Sayuran,Kentang tumbuk,85,20,120,2.0,27.0,0.1
+Sayuran,Jagung rebus,60,15,96,3.4,21.0,1.5
+Bijian,Pasta putih,70,22,124,5.0,25.0,0.7
+Processed Foods,Maltodekstrin,95,94,380,0.0,99.0,0.0
+Processed Foods,Sereal jagung,81,23,357,7.0,84.0,2.0
+Processed Foods,Donat,76,25,452,5.0,51.0,25.0
+Dairy,Es krim,61,12,207,3.5,27.0,11.0
+Dairy,Susu skim,58,4,35,3.4,5.0,0.2
+Bijian,Roti gandum,74,12,247,8.0,45.0,3.4
+Bijian,Tortilla jagung,70,9,218,5.8,44.0,2.2
+Processed Foods,Kentang goreng,75,22,312,3.5,41.0,15.0
+Processed Foods,Biskuit manis,69,15,480,6.5,60.0,23.0
+Buah,Semangka,72,4,30,0.6,8.0,0.2
+Buah,Nanas,66,6,50,0.5,13.0,0.1
+Buah,Mangga,60,8,60,0.8,15.0,0.4
+Buah,Pisang matang,62,16,89,1.1,23.0,0.3
+Bijian,Roti putih,75,13,265,9.0,49.0,3.2
+Bijian,Nasi putih,73,15,130,2.4,28.0,0.3
+Sayuran,Kentang tumbuk,85,20,120,2.0,27.0,0.1
+Sayuran,Jagung rebus,60,15,96,3.4,21.0,1.5
+Bijian,Pasta putih,70,22,124,5.0,25.0,0.7
+Processed Foods,Maltodekstrin,95,94,380,0.0,99.0,0.0
+Processed Foods,Sereal jagung,81,23,357,7.0,84.0,2.0
+Processed Foods,Donat,76,25,452,5.0,51.0,25.0
+Dairy,Es krim,61,12,207,3.5,27.0,11.0
+Dairy,Susu skim,58,4,35,3.4,5.0,0.2
+Bijian,Roti gandum,74,12,247,8.0,45.0,3.4
+Bijian,Tortilla jagung,70,9,218,5.8,44.0,2.2
+Processed Foods,Kentang goreng,75,22,312,3.5,41.0,15.0
+Processed Foods,Biskuit manis,69,15,480,6.5,60.0,23.0
+Buah,Semangka,72,4,30,0.6,8.0,0.2
+Buah,Nanas,66,6,50,0.5,13.0,0.1
+Buah,Mangga,60,8,60,0.8,15.0,0.4
+Buah,Pisang matang,62,16,89,1.1,23.0,0.3
+Bijian,Roti putih,75,13,265,9.0,49.0,3.2
+Bijian,Nasi putih,73,15,130,2.4,28.0,0.3
+Sayuran,Kentang tumbuk,85,20,120,2.0,27.0,0.1
+Sayuran,Jagung rebus,60,15,96,3.4,21.0,1.5
+Bijian,Pasta putih,70,22,124,5.0,25.0,0.7
+Processed Foods,Maltodekstrin,95,94,380,0.0,99.0,0.0
+Processed Foods,Sereal jagung,81,23,357,7.0,84.0,2.0
+Processed Foods,Donat,76,25,452,5.0,51.0,25.0
+Dairy,Es krim,61,12,207,3.5,27.0,11.0
+Dairy,Susu skim,58,4,35,3.4,5.0,0.2
+Bijian,Roti gandum,74,12,247,8.0,45.0,3.4
+Bijian,Tortilla jagung,70,9,218,5.8,44.0,2.2
+Processed Foods,Kentang goreng,75,22,312,3.5,41.0,15.0
+Processed Foods,Biskuit manis,69,15,480,6.5,60.0,23.0
+Buah,Semangka,72,4,30,0.6,8.0,0.2
+Buah,Nanas,66,6,50,0.5,13.0,0.1
+Buah,Mangga,60,8,60,0.8,15.0,0.4
+Buah,Pisang matang,62,16,89,1.1,23.0,0.3
+Bijian,Roti putih,75,13,265,9.0,49.0,3.2
+Bijian,Nasi putih,73,15,130,2.4,28.0,0.3
+Sayuran,Kentang tumbuk,85,20,120,2.0,27.0,0.1
+Sayuran,Jagung rebus,60,15,96,3.4,21.0,1.5
+Bijian,Pasta putih,70,22,124,5.0,25.0,0.7
+Processed Foods,Maltodekstrin,95,94,380,0.0,99.0,0.0
+Processed Foods,Sereal jagung,81,23,357,7.0,84.0,2.0
+Processed Foods,Donat,76,25,452,5.0,51.0,25.0
+Dairy,Es krim,61,12,207,3.5,27.0,11.0
+Dairy,Susu skim,58,4,35,3.4,5.0,0.2
+Bijian,Roti gandum,74,12,247,8.0,45.0,3.4
+Bijian,Tortilla jagung,70,9,218,5.8,44.0,2.2
+Processed Foods,Kentang goreng,75,22,312,3.5,41.0,15.0
+Processed Foods,Biskuit manis,69,15,480,6.5,60.0,23.0
+Buah,Semangka,72,4,30,0.6,8.0,0.2
+Buah,Nanas,66,6,50,0.5,13.0,0.1
+Buah,Mangga,60,8,60,0.8,15.0,0.4
+Buah,Pisang matang,62,16,89,1.1,23.0,0.3
+Bijian,Roti putih,75,13,265,9.0,49.0,3.2
+Bijian,Nasi putih,73,15,130,2.4,28.0,0.3
+Sayuran,Kentang tumbuk,85,20,120,2.0,27.0,0.1
+Sayuran,Jagung rebus,60,15,96,3.4,21.0,1.5
+Bijian,Pasta putih,70,22,124,5.0,25.0,0.7
+Processed Foods,Maltodekstrin,95,94,380,0.0,99.0,0.0
+Processed Foods,Sereal jagung,81,23,357,7.0,84.0,2.0
+Processed Foods,Donat,76,25,452,5.0,51.0,25.0
+Dairy,Es krim,61,12,207,3.5,27.0,11.0
+Dairy,Susu skim,58,4,35,3.4,5.0,0.2
+Bijian,Roti gandum,74,12,247,8.0,45.0,3.4
+Bijian,Tortilla jagung,70,9,218,5.8,44.0,2.2
+Processed Foods,Kentang goreng,75,22,312,3.5,41.0,15.0
+Processed Foods,Biskuit manis,69,15,480,6.5,60.0,23.0
+Buah,Semangka,72,4,30,0.6,8.0,0.2
+Buah,Nanas,66,6,50,0.5,13.0,0.1
+Buah,Mangga,60,8,60,0.8,15.0,0.4
+Buah,Pisang matang,62,16,89,1.1,23.0,0.3
+Bijian,Roti putih,75,13,265,9.0,49.0,3.2
+Bijian,Nasi putih,73,15,130,2.4,28.0,0.3
+Sayuran,Kentang tumbuk,85,20,120,2.0,27.0,0.1
+Sayuran,Jagung rebus,60,15,96,3.4,21.0,1.5
+Bijian,Pasta putih,70,22,124,5.0,25.0,0.7
+Processed Foods,Maltodekstrin,95,94,380,0.0,99.0,0.0
+Processed Foods,Sereal jagung,81,23,357,7.0,84.0,2.0
+Processed Foods,Donat,76,25,452,5.0,51.0,25.0
+Dairy,Es krim,61,12,207,3.5,27.0,11.0
+Dairy,Susu skim,58,4,35,3.4,5.0,0.2
+Bijian,Roti gandum,74,12,247,8.0,45.0,3.4
+Bijian,Tortilla jagung,70,9,218,5.8,44.0,2.2
+Processed Foods,Kentang goreng,75,22,312,3.5,41.0,15.0
+Processed Foods,Biskuit manis,69,15,480,6.5,60.0,23.0
+Buah,Semangka,72,4,30,0.6,8.0,0.2
+Buah,Nanas,66,6,50,0.5,13.0,0.1
+Buah,Mangga,60,8,60,0.8,15.0,0.4
+Buah,Pisang matang,62,16,89,1.1,23.0,0.3
+Bijian,Roti putih,75,13,265,9.0,49.0,3.2
+Bijian,Nasi putih,73,15,130,2.4,28.0,0.3
+Sayuran,Kentang tumbuk,85,20,120,2.0,27.0,0.1
+Sayuran,Jagung rebus,60,15,96,3.4,21.0,1.5
+Bijian,Pasta putih,70,22,124,5.0,25.0,0.7
+Processed Foods,Maltodekstrin,95,94,380,0.0,99.0,0.0
+Processed Foods,Sereal jagung,81,23,357,7.0,84.0,2.0
+Processed Foods,Donat,76,25,452,5.0,51.0,25.0
+Dairy,Es krim,61,12,207,3.5,27.0,11.0
+Dairy,Susu skim,58,4,35,3.4,5.0,0.2
+Bijian,Roti gandum,74,12,247,8.0,45.0,3.4
+Bijian,Tortilla jagung,70,9,218,5.8,44.0,2.2
+Processed Foods,Kentang goreng,75,22,312,3.5,41.0,15.0
+Processed Foods,Biskuit manis,69,15,480,6.5,60.0,23.0
+Buah,Semangka,72,4,30,0.6,8.0,0.2
+Buah,Nanas,66,6,50,0.5,13.0,0.1
+Buah,Mangga,60,8,60,0.8,15.0,0.4
+Buah,Pisang matang,62,16,89,1.1,23.0,0.3
+Bijian,Roti putih,75,13,265,9.0,49.0,3.2
+Bijian,Nasi putih,73,15,130,2.4,28.0,0.3
+Sayuran,Kentang tumbuk,85,20,120,2.0,27.0,0.1
+Sayuran,Jagung rebus,60,15,96,3.4,21.0,1.5
+Bijian,Pasta putih,70,22,124,5.0,25.0,0.7
+Processed Foods,Maltodekstrin,95,94,380,0.0,99.0,0.0
+Processed Foods,Sereal jagung,81,23,357,7.0,84.0,2.0
+Processed Foods,Donat,76,25,452,5.0,51.0,25.0
+Dairy,Es krim,61,12,207,3.5,27.0,11.0
+Dairy,Susu skim,58,4,35,3.4,5.0,0.2
+Bijian,Roti gandum,74,12,247,8.0,45.0,3.4
+Bijian,Tortilla jagung,70,9,218,5.8,44.0,2.2
+Processed Foods,Kentang goreng,75,22,312,3.5,41.0,15.0
+Processed Foods,Biskuit manis,69,15,480,6.5,60.0,23.0
+Buah,Semangka,72,4,30,0.6,8.0,0.2
+Buah,Nanas,66,6,50,0.5,13.0,0.1
+Buah,Mangga,60,8,60,0.8,15.0,0.4
+Buah,Pisang matang,62,16,89,1.1,23.0,0.3
+Bijian,Roti putih,75,13,265,9.0,49.0,3.2
+Bijian,Nasi putih,73,15,130,2.4,28.0,0.3
+Sayuran,Kentang tumbuk,85,20,120,2.0,27.0,0.1
+Sayuran,Jagung rebus,60,15,96,3.4,21.0,1.5
+Bijian,Pasta putih,70,22,124,5.0,25.0,0.7
+Processed Foods,Maltodekstrin,95,94,380,0.0,99.0,0.0
+Processed Foods,Sereal jagung,81,23,357,7.0,84.0,2.0
+Processed Foods,Donat,76,25,452,5.0,51.0,25.0
+Dairy,Es krim,61,12,207,3.5,27.0,11.0
+Dairy,Susu skim,58,4,35,3.4,5.0,0.2
+Bijian,Roti gandum,74,12,247,8.0,45.0,3.4
+Bijian,Tortilla jagung,70,9,218,5.8,44.0,2.2
+Processed Foods,Kentang goreng,75,22,312,3.5,41.0,15.0
+Processed Foods,Biskuit manis,69,15,480,6.5,60.0,23.0
+Makanan ringan,Kentang goreng,70.0,22.0,312.0,3.5,41.0,15.0
+Buah,Soda manis,65.0,16.0,140.0,0.0,35.0,0.0
+Makanan cepat saji,Soda manis,65.0,16.0,140.0,0.0,35.0,0.0
+Lainnya,Pisang matang,62.0,18.0,89.0,1.1,23.0,0.3
+Sereal,Mie instan,73.0,47.0,470.0,9.0,60.0,22.0
+Buah,Mie instan,73.0,47.0,470.0,9.0,60.0,22.0
+Minuman,Mie instan,73.0,47.0,470.0,9.0,60.0,22.0
+Buah,Kentang goreng,70.0,22.0,312.0,3.5,41.0,15.0
+Lainnya,Mie instan,73.0,47.0,470.0,9.0,60.0,22.0
+Makanan cepat saji,Donat,76.0,25.0,452.0,5.5,51.0,25.0
+Lainnya,Soda manis,65.0,16.0,140.0,0.0,35.0,0.0
+Lainnya,Jus jeruk,57.0,13.0,45.0,0.7,10.0,0.2
+Lainnya,Roti putih,75.0,38.0,265.0,9.0,49.0,3.2
+Minuman,Pisang matang,62.0,18.0,89.0,1.1,23.0,0.3
+Minuman,Mie instan,73.0,47.0,470.0,9.0,60.0,22.0
+Makanan cepat saji,Kentang goreng,70.0,22.0,312.0,3.5,41.0,15.0
+Minuman,Roti putih,75.0,38.0,265.0,9.0,49.0,3.2
+Sereal,Kentang goreng,70.0,22.0,312.0,3.5,41.0,15.0
+Lainnya,Cornflakes,81.0,21.0,357.0,8.0,84.0,0.4
+Makanan ringan,Soda manis,65.0,16.0,140.0,0.0,35.0,0.0
+Minuman,Mie instan,73.0,47.0,470.0,9.0,60.0,22.0
+Makanan cepat saji,Cornflakes,81.0,21.0,357.0,8.0,84.0,0.4
+Buah,Cornflakes,81.0,21.0,357.0,8.0,84.0,0.4
+Buah,Soda manis,65.0,16.0,140.0,0.0,35.0,0.0
+Minuman,Donat,76.0,25.0,452.0,5.5,51.0,25.0
+Buah,Mie instan,73.0,47.0,470.0,9.0,60.0,22.0
+Sereal,Cornflakes,81.0,21.0,357.0,8.0,84.0,0.4
+Sereal,Jus jeruk,57.0,13.0,45.0,0.7,10.0,0.2
+Sereal,Jus jeruk,57.0,13.0,45.0,0.7,10.0,0.2
+Kue dan roti,Soda manis,65.0,16.0,140.0,0.0,35.0,0.0
+Makanan cepat saji,Biskuit manis,70.0,20.0,480.0,6.0,68.0,20.0
+Buah,Semangka,76.0,8.0,30.0,0.6,7.6,0.2
+Lainnya,Pisang matang,62.0,18.0,89.0,1.1,23.0,0.3
+Makanan ringan,Kentang goreng,70.0,22.0,312.0,3.5,41.0,15.0
+Buah,Roti putih,75.0,38.0,265.0,9.0,49.0,3.2
+Sereal,Roti putih,75.0,38.0,265.0,9.0,49.0,3.2
+Buah,Roti putih,75.0,38.0,265.0,9.0,49.0,3.2
+Sereal,Cornflakes,81.0,21.0,357.0,8.0,84.0,0.4
+Makanan ringan,Biskuit manis,70.0,20.0,480.0,6.0,68.0,20.0
+Makanan ringan,Donat,76.0,25.0,452.0,5.5,51.0,25.0
+Minuman,Cornflakes,81.0,21.0,357.0,8.0,84.0,0.4
+Makanan cepat saji,Mie instan,73.0,47.0,470.0,9.0,60.0,22.0
+Makanan cepat saji,Kentang goreng,70.0,22.0,312.0,3.5,41.0,15.0
+Makanan cepat saji,Biskuit manis,70.0,20.0,480.0,6.0,68.0,20.0
+Kue dan roti,Soda manis,65.0,16.0,140.0,0.0,35.0,0.0
+Kue dan roti,Pisang matang,62.0,18.0,89.0,1.1,23.0,0.3
+Sereal,Mie instan,73.0,47.0,470.0,9.0,60.0,22.0
+Makanan ringan,Roti putih,75.0,38.0,265.0,9.0,49.0,3.2
+Makanan cepat saji,Roti putih,75.0,38.0,265.0,9.0,49.0,3.2
+Lainnya,Soda manis,65.0,16.0,140.0,0.0,35.0,0.0
+Minuman,Jus jeruk,57.0,13.0,45.0,0.7,10.0,0.2
+Makanan ringan,Biskuit manis,70.0,20.0,480.0,6.0,68.0,20.0
+Kue dan roti,Mie instan,73.0,47.0,470.0,9.0,60.0,22.0
+Kue dan roti,Cornflakes,81.0,21.0,357.0,8.0,84.0,0.4
+Sereal,Cornflakes,81.0,21.0,357.0,8.0,84.0,0.4
+Kue dan roti,Biskuit manis,70.0,20.0,480.0,6.0,68.0,20.0
+Makanan cepat saji,Jus jeruk,57.0,13.0,45.0,0.7,10.0,0.2
+Makanan cepat saji,Mie instan,73.0,47.0,470.0,9.0,60.0,22.0
+Kue dan roti,Jus jeruk,57.0,13.0,45.0,0.7,10.0,0.2
+Minuman,Soda manis,65.0,16.0,140.0,0.0,35.0,0.0
+Buah,Jus jeruk,57.0,13.0,45.0,0.7,10.0,0.2
+Buah,Jus jeruk,57.0,13.0,45.0,0.7,10.0,0.2
+Lainnya,Kentang goreng,70.0,22.0,312.0,3.5,41.0,15.0
+Makanan ringan,Semangka,76.0,8.0,30.0,0.6,7.6,0.2
+Lainnya,Donat,76.0,25.0,452.0,5.5,51.0,25.0
+Sereal,Mie instan,73.0,47.0,470.0,9.0,60.0,22.0
+Makanan ringan,Jus jeruk,57.0,13.0,45.0,0.7,10.0,0.2
+Makanan cepat saji,Kentang goreng,70.0,22.0,312.0,3.5,41.0,15.0
+Makanan ringan,Semangka,76.0,8.0,30.0,0.6,7.6,0.2
+Kue dan roti,Kentang goreng,70.0,22.0,312.0,3.5,41.0,15.0
+Minuman,Kentang goreng,70.0,22.0,312.0,3.5,41.0,15.0
+Kue dan roti,Donat,76.0,25.0,452.0,5.5,51.0,25.0
+Sereal,Kentang goreng,70.0,22.0,312.0,3.5,41.0,15.0
+Lainnya,Roti putih,75.0,38.0,265.0,9.0,49.0,3.2
+Lainnya,Donat,76.0,25.0,452.0,5.5,51.0,25.0
+Sereal,Kentang goreng,70.0,22.0,312.0,3.5,41.0,15.0
+Kue dan roti,Mie instan,73.0,47.0,470.0,9.0,60.0,22.0
+Makanan cepat saji,Soda manis,65.0,16.0,140.0,0.0,35.0,0.0
+Buah,Soda manis,65.0,16.0,140.0,0.0,35.0,0.0
+Makanan cepat saji,Mie instan,73.0,47.0,470.0,9.0,60.0,22.0
+Sereal,Pisang matang,62.0,18.0,89.0,1.1,23.0,0.3
+Makanan cepat saji,Biskuit manis,70.0,20.0,480.0,6.0,68.0,20.0
+Buah,Biskuit manis,70.0,20.0,480.0,6.0,68.0,20.0
+Makanan cepat saji,Biskuit manis,70.0,20.0,480.0,6.0,68.0,20.0
+Sereal,Biskuit manis,70.0,20.0,480.0,6.0,68.0,20.0
+Sereal,Kentang goreng,70.0,22.0,312.0,3.5,41.0,15.0
+Lainnya,Pisang matang,62.0,18.0,89.0,1.1,23.0,0.3
+Makanan ringan,Jus jeruk,57.0,13.0,45.0,0.7,10.0,0.2
+Minuman,Semangka,76.0,8.0,30.0,0.6,7.6,0.2
+Minuman,Soda manis,65.0,16.0,140.0,0.0,35.0,0.0
+Lainnya,Mie instan,73.0,47.0,470.0,9.0,60.0,22.0
+Makanan ringan,Mie instan,73.0,47.0,470.0,9.0,60.0,22.0
+Minuman,Mie instan,73.0,47.0,470.0,9.0,60.0,22.0
+Makanan ringan,Kentang goreng,70.0,22.0,312.0,3.5,41.0,15.0
+Buah,Biskuit manis,70.0,20.0,480.0,6.0,68.0,20.0
+Makanan cepat saji,Soda manis,65.0,16.0,140.0,0.0,35.0,0.0
+Sereal,Kentang goreng,70.0,22.0,312.0,3.5,41.0,15.0
+Buah,Jus jeruk,57.0,13.0,45.0,0.7,10.0,0.2
+Kue dan roti,Semangka,76.0,8.0,30.0,0.6,7.6,0.2
+Sereal,Cornflakes,81.0,21.0,357.0,8.0,84.0,0.4
+Grains,Whole Wheat Bread,56.0,9.0,247.0,12.0,41.0,3.4
+Grains,Basmati Rice,58.0,18.0,205.0,4.2,45.0,0.5
+Grains,Bulgur,56.0,12.0,342.0,12.3,75.9,1.3
+Grains,Couscous,65.0,13.0,112.0,3.8,23.2,0.2
+Grains,Rye Bread,57.0,8.0,259.0,9.1,48.3,2.5
+Vegetables,Sweet Potato,63.0,11.0,86.0,1.6,20.1,0.1
+Vegetables,Beetroot,61.0,5.0,43.0,1.6,9.6,0.2
+Vegetables,Carrot,56.0,3.0,41.0,0.9,9.6,0.2
+Vegetables,Corn,60.0,14.0,96.0,3.4,21.0,1.5
+Vegetables,Green Peas,59.0,5.0,81.0,5.4,14.5,0.4
+Fruits,Banana,62.0,13.0,89.0,1.1,23.0,0.3
+Fruits,Pineapple,59.0,8.0,50.0,0.5,13.1,0.1
+Fruits,Mango,57.0,9.0,60.0,0.8,15.0,0.4
+Fruits,Papaya,58.0,7.0,43.0,0.5,11.0,0.3
+Fruits,Grapes,59.0,9.0,67.0,0.6,17.0,0.4
+Legumes,Lentils,56.0,7.0,116.0,9.0,20.1,0.4
+Legumes,Chickpeas,57.0,11.0,164.0,8.9,27.4,2.6
+Legumes,Black Beans,56.0,7.0,132.0,8.9,23.7,0.5
+Legumes,Green Peas,59.0,5.0,81.0,5.4,14.5,0.4
+Legumes,Red Kidney Beans,58.0,8.0,127.0,8.7,22.8,0.4
+Dairy,Low-Fat Yogurt,58.0,6.0,59.0,10.0,7.5,0.4
+Dairy,Skim Milk,57.0,4.0,35.0,3.4,5.0,0.1
+Dairy,Whole Milk,56.0,5.0,61.0,3.2,4.8,3.3
+Dairy,Cottage Cheese,57.0,2.0,98.0,11.1,3.4,4.3
+Dairy,Cheddar Cheese,56.0,1.0,403.0,24.9,1.3,33.1
+Snacks,Popcorn,58.0,10.0,375.0,12.0,74.0,4.5
+Snacks,Granola Bar,59.0,15.0,471.0,10.1,64.0,20.0
+Snacks,Rice Cakes,56.0,14.0,387.0,7.9,82.0,0.6
+Snacks,Pretzels,57.0,16.0,381.0,9.0,80.0,3.0
+Snacks,Crackers,58.0,12.0,502.0,9.6,62.0,25.5
+Drinks,Orange Juice,56.0,10.0,45.0,0.7,10.0,0.2
+Drinks,Apple Juice,58.0,12.0,46.0,0.5,11.3,0.1
+Drinks,Mango Juice,59.0,14.0,60.0,0.4,15.2,0.3
+Drinks,Pineapple Juice,57.0,13.0,50.0,0.3,12.0,0.2
+Drinks,Cranberry Juice,56.0,11.0,47.0,0.3,12.2,0.1
+Nuts & Seeds,Almonds,56.0,2.0,576.0,21.2,21.6,49.4
+Nuts & Seeds,Walnuts,57.0,3.0,654.0,15.2,13.7,65.2
+Nuts & Seeds,Peanuts,58.0,4.0,567.0,25.8,16.1,49.2
+Nuts & Seeds,Chia Seeds,59.0,1.0,486.0,16.5,42.1,30.7
+Nuts & Seeds,Sunflower Seeds,60.0,2.0,584.0,20.8,20.0,51.5
+Grains,Oatmeal,57.0,11.0,68.0,2.4,12.0,1.4
+Grains,Barley,58.0,15.0,354.0,12.5,73.5,2.3
+Grains,Whole Wheat Pasta,56.0,13.0,157.0,5.8,31.0,1.2
+Grains,Quinoa,59.0,14.0,120.0,4.1,21.3,1.9
+Grains,Sorghum,60.0,16.0,329.0,11.3,72.0,3.5
+Vegetables,Butternut Squash,56.0,10.0,45.0,1.0,11.7,0.1
+Vegetables,Turnips,58.0,6.0,28.0,0.9,6.4,0.1
+Vegetables,Yucca,59.0,18.0,120.0,1.5,30.0,0.3
+Vegetables,Parsnips,60.0,12.0,75.0,1.2,17.1,0.3
+Vegetables,Pumpkin,57.0,8.0,26.0,1.0,6.5,0.1
+Fruits,Apples,56.0,6.0,52.0,0.3,13.8,0.2
+Fruits,Pears,57.0,7.0,57.0,0.4,15.2,0.2
+Fruits,Peaches,58.0,6.0,39.0,0.9,9.5,0.3
+Fruits,Cherries,59.0,8.0,50.0,1.0,12.2,0.3
+Fruits,Plums,60.0,5.0,46.0,0.7,11.4,0.3
