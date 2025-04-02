@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+env/
+ENV/
+__pycache__/
+*.pyc
+
+# Large files
+**/libclang.dll
+**/_pywrap_tensorflow_internal.pyd
+*.pyd
+*.dll
+
+# Keep requirements.txt
+!requirements.txt
